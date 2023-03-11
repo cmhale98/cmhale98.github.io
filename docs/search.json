@@ -1,16 +1,58 @@
 [
   {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research Experience",
+    "section": "",
+    "text": "SO much! <3"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "cmhale98.github.io",
+    "title": "Conner Hale (she/her)",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "My name is Conner and I currently work as a Program Assistant in the Beltran Lab at UCSC!"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "About Me",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Conner Hale (me) is a silly goose."
+  },
+  {
+    "objectID": "pubs.html",
+    "href": "pubs.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Working on it!"
+  },
+  {
+    "objectID": "blogs.html",
+    "href": "blogs.html",
+    "title": "Blog Posts",
+    "section": "",
+    "text": "This will be my log of fun stuff I do :D"
+  },
+  {
+    "objectID": "mywebsite.html",
+    "href": "mywebsite.html",
+    "title": "Conner Hale (she/her)",
+    "section": "",
+    "text": "My name is Conner and I currently work as a Program Assistant in the Beltran Lab at UCSC!"
+  },
+  {
+    "objectID": "mywebsite.html#education",
+    "href": "mywebsite.html#education",
+    "title": "Conner Hale (she/her)",
+    "section": "Education",
+    "text": "Education\nB.S in Marine Biology with a Minor in Literature | 2022 University of California, Santa Cruz\n\n#r markdown slay"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Conner Hale (she/her)",
+    "section": "Education",
+    "text": "Education\nB.S in Marine Biology with a Minor in Literature | 2022 University of California, Santa Cruz\n\n#r markdown slay"
   }
 ]

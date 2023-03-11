@@ -1,20 +1,25 @@
-project:
-  type: website
-  output-dir: docs
+  project:
+    type: website
+    output-dir: docs
 
-website:
-  title: "cmhale98.github.io"
-  navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+  website:
+    title: "Conner Hale"
+    navbar:
+      left:
+        - href: about.qmd
+          text: About Me
+        - href: research.qmd
+          text: Research Experience
+        - href: pubs.qmd
+          text: Publications
+        - href: blogs.qmd
+          text: Blog Posts
+    search: false
+      
+  format:
+    html:
+      theme: cosmo
+      css: styles.css
+      toc: true
 
-format:
-  html:
-    theme: cosmo
-    css: styles.css
-    toc: true
-
-editor: visual
-
+  editor: visual
