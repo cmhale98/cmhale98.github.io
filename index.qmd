@@ -11,6 +11,9 @@ about:
     - icon: envelope
       text: Email
       href: mailto:cmhale@ucsc.edu
+    - icon: person-lines-fill
+      text: Resume
+      href: https://docs.google.com/document/d/1GbTpqOZG2XP4c7B-sIKu5x-CUhup9f2w/edit?usp=sharing&ouid=108493774200159163524&rtpof=true&sd=true
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/cmhale98
@@ -19,14 +22,10 @@ about:
       href: https://github.com/cmhale98
 ---
 
-## Hi, welcome to my website :)
+## **Welcome to my website! ☺**
 
 My name is Conner and I currently work as a Program Assistant in the [Beltran Lab](https://roxannebeltran.sites.ucsc.edu) at UCSC!
 
-## Education
+## **Education**
 
-B.S in Marine Biology with a Minor in Literature \| 2022 *University of California, Santa Cruz*
-
-```{r}
-#r markdown slay
-```
+B.S in Marine Biology with a Minor in Literature | 2022 *University of California, Santa Cruz*
