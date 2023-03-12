@@ -1,5 +1,48 @@
 ---
 title: "About Me"
+image: images/selfie.png
+about:
+  template: trestles
+  image-shape: rectangle
+  image-width: 16em
+  links:
+  - icon: bag-plus=fill
+    text: CPR, First Aid, and O2 Certification
+  - icon: list-stars
+    text: Dean's Honors List
+    href: https://honors.ucsc.edu/honors-programs/index.html
+  - icon: award
+    text: Dante Writing Award
+    href: https://cowell.ucsc.edu/academics/award-recipients.html
+  - icon: mortarboard-fill
+    text: College Scholars Program
+    href: https://honors.ucsc.edu/honors-programs/index.html
+  - icon: award
+    text: Undergraduate Dean's Award
+    href: https://financialaid.ucsc.edu/types-of-aid/scholarships/non-resident-scholarships.html
 ---
 
-Conner Hale (me) is a silly goose.
+## **About Me**
+
+- I am a recent graduate of the University of California, Santa Cruz where I studied Marine Biology and Literature.
+
+## **Research Interests ⍤**
+
+- Population demographics (long term ecological research projects)
+
+- How animals use their environment (at spatial and temporal scales)
+
+- Bio-logging and the ethics of tag use
+
+- F.A.I.R data
+
+## **General Interests ☺**
+
+- Film photography
+![Fig 1: Film photography](images/film3.jpg)
+
+- Reading
+
+- Biking
+
+- Learning new languages

@@ -2,9 +2,44 @@
   {
     "objectID": "research.html",
     "href": "research.html",
-    "title": "Research Experience",
+    "title": "Experience",
     "section": "",
-    "text": "SO much! <3"
+    "text": "Beltran Lab | 2021 - Present\nBIOE 161L (Kelp Forest Ecology Field Course) | Fall 2021\nBIOE 159 (Marine Ecology Field Quarter) | Fall 2022\nBIOE 128L (Large Marine Field Vertebrates Field Course) | Spring 2022"
+  },
+  {
+    "objectID": "research.html#lab-experience",
+    "href": "research.html#lab-experience",
+    "title": "Experience",
+    "section": "Lab Experience",
+    "text": "Lab Experience\n\nBeltran Lab | 2022 - Present\nBIOE 159 (Marine Ecology Field Quarter) | Fall 2022"
+  },
+  {
+    "objectID": "research.html#research-experience",
+    "href": "research.html#research-experience",
+    "title": "Experience",
+    "section": "Research Experience",
+    "text": "Research Experience\n\nPaid Researcher (Beltran Lab, UCSC) | Summer 2022 and Fall 2023 - Present"
+  },
+  {
+    "objectID": "research.html#programmingsoftware-experience",
+    "href": "research.html#programmingsoftware-experience",
+    "title": "Experience",
+    "section": "Programming/Software Experience",
+    "text": "Programming/Software Experience\n\nJMP | 2021 - Present\nR and RStudio | 2022 - Present"
+  },
+  {
+    "objectID": "research.html#volunteer-experience",
+    "href": "research.html#volunteer-experience",
+    "title": "Experience",
+    "section": "Volunteer Experience",
+    "text": "Volunteer Experience\n\nOdySea Aquarium | February 2017 - September 2018"
+  },
+  {
+    "objectID": "research.html#club-and-community-involvement-experiences",
+    "href": "research.html#club-and-community-involvement-experiences",
+    "title": "Experience",
+    "section": "Club And Community Involvement Experiences",
+    "text": "Club And Community Involvement Experiences\n\nRachel Carson College Council | 2018 - 2022\nWomen in Science Society | 2019 - 2021\nStudent Union Assembly\nMarine Science Club\nStudent Organization Funding Advisory Committee"
   },
   {
     "objectID": "index.html",
@@ -14,11 +49,32 @@
     "text": "My name is Conner and I currently work as a Program Assistant in the Beltran Lab at UCSC!"
   },
   {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Conner Hale (she/her)",
+    "section": "Education",
+    "text": "Education\nB.S in Marine Biology with a Minor in Literature | 2022 University of California, Santa Cruz\n\n#r markdown slay"
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About Me",
     "section": "",
-    "text": "Conner Hale (me) is a silly goose."
+    "text": "I am a recent graduate of the University of California, Santa Cruz where I studied Marine Biology and Literature."
+  },
+  {
+    "objectID": "about.html#research-interests",
+    "href": "about.html#research-interests",
+    "title": "About Me",
+    "section": "Research Interests ⍤",
+    "text": "Research Interests ⍤\n\nPopulation demographics (long term ecological research projects)\nHow animals use their environment (at spatial and temporal scales)\nBio-logging and the ethics of tag use\nF.A.I.R data"
+  },
+  {
+    "objectID": "about.html#general-interests",
+    "href": "about.html#general-interests",
+    "title": "About Me",
+    "section": "General Interests ☺",
+    "text": "General Interests ☺\n\nFilm photography \nReading\nBiking\nLearning new languages"
   },
   {
     "objectID": "pubs.html",
@@ -32,25 +88,25 @@
     "href": "blogs.html",
     "title": "Blog Posts",
     "section": "",
-    "text": "This will be my log of fun stuff I do :D"
+    "text": "Right now its 6:21 pm and I have been working on this webstie for about an hour now. I am having so much fun :D This morning I had my Año shift and we (Patrick, Millie, Maddie, Mando, and I) weighed 9 weans (with 4 bring known moms)!! Woohoo!"
   },
   {
     "objectID": "mywebsite.html",
     "href": "mywebsite.html",
     "title": "Conner Hale (she/her)",
     "section": "",
-    "text": "My name is Conner and I currently work as a Program Assistant in the Beltran Lab at UCSC!"
+    "text": "#SEEMS TO BE REDUNDANT"
+  },
+  {
+    "objectID": "mywebsite.html#hi-welcome-to-my-website",
+    "href": "mywebsite.html#hi-welcome-to-my-website",
+    "title": "Conner Hale (she/her)",
+    "section": "Hi, welcome to my website :)",
+    "text": "Hi, welcome to my website :)\nMy name is Conner and I currently work as a Program Assistant in the Beltran Lab at UCSC!"
   },
   {
     "objectID": "mywebsite.html#education",
     "href": "mywebsite.html#education",
-    "title": "Conner Hale (she/her)",
-    "section": "Education",
-    "text": "Education\nB.S in Marine Biology with a Minor in Literature | 2022 University of California, Santa Cruz\n\n#r markdown slay"
-  },
-  {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
     "title": "Conner Hale (she/her)",
     "section": "Education",
     "text": "Education\nB.S in Marine Biology with a Minor in Literature | 2022 University of California, Santa Cruz\n\n#r markdown slay"

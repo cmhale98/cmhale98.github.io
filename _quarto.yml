@@ -18,8 +18,9 @@
       
   format:
     html:
-      theme: cosmo
+      mainfont: Gill Sans
+      theme: pulse
       css: styles.css
       toc: true
-
+      
   editor: visual

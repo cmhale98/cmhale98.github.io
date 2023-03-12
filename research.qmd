@@ -1,5 +1,49 @@
 ---
-title: "Research Experience"
+title: "Experience"
+image: images/CorsicaDive.gif
+about:
+  template: trestles
+  image-shape: rectangle
+  image-width: 16em
+  links:
+    - icon: binoculars-fill
+      text: Año Nuevo Field Shift Log
+      href: https://docs.google.com/spreadsheets/d/1Z8NNTCsU-pC_-hZRP58IjCPakXqGYqCilTzT7ElOSY0/edit?usp=sharing
+    - icon: heart-fill
+      text: Dive Logs
+      href: https://docs.google.com/spreadsheets/d/1am2ZYdwuqbia1WSrNGTGrN0-Y7QvbnOxJkqGr6XmZmg/edit?usp=sharing
 ---
 
-SO much! <3
+## **Field Experience**
+
+- Beltran Lab | 2021 - Present
+- BIOE 161L (Kelp Forest Ecology Field Course) | Fall 2021
+- BIOE 159 (Marine Ecology Field Quarter) | Fall 2022
+- BIOE 128L (Large Marine Field Vertebrates Field Course) | Spring 2022
+
+
+## **Lab Experience**
+
+- Beltran Lab | 2022 - Present
+- BIOE 159 (Marine Ecology Field Quarter) | Fall 2022
+
+## **Research Experience**
+
+- Paid Researcher (Beltran Lab, UCSC) | Summer 2022 and Fall 2023 - Present
+    
+## **Programming/Software Experience**
+
+- JMP | 2021 - Present
+- R and RStudio | 2022 - Present
+    
+## **Volunteer Experience**
+
+- OdySea Aquarium | February 2017 - September 2018
+
+## **Club And Community Involvement Experiences**
+
+- Rachel Carson College Council | 2018 - 2022
+- Women in Science Society | 2019 - 2021
+- Student Union Assembly
+- Marine Science Club
+- Student Organization Funding Advisory Committee

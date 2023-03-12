@@ -1,3 +1,5 @@
+#SEEMS TO BE REDUNDANT
+
 ---
 title: "Conner Hale (she/her)"
 format: html

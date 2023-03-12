@@ -1,5 +1,10 @@
 ---
 title: "Publications"
+image: images/ethicspaper.png
+about:
+  template: trestles
+  image-shape: rectangle
+  image-width: 16em
 ---
 
 Working on it!
