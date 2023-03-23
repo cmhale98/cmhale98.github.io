@@ -6,7 +6,7 @@ about:
   image-shape: rectangle
   image-width: 16em
   links:
-  - icon: bag-plus=fill
+  - icon: bag-plus-fill
     text: CPR, First Aid, and O2 Certification
   - icon: list-stars
     text: Dean's Honors List
@@ -39,7 +39,7 @@ about:
 ## **General Interests ☺**
 
 - Film photography
-![Fig 1: Film photography](images/film3.jpg)
+![Fig 1: Film photography](images/film3.JPG)
 
 - Reading
 
