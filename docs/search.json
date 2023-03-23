@@ -1,47 +1,5 @@
 [
   {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Experience",
-    "section": "",
-    "text": "Beltran Lab | 2021 - Present\nBIOE 161L (Kelp Forest Ecology Field Course) | Fall 2021\nBIOE 159 (Marine Ecology Field Quarter) | Fall 2022\nBIOE 128L (Large Marine Field Vertebrates Field Course) | Spring 2022"
-  },
-  {
-    "objectID": "research.html#lab-experience",
-    "href": "research.html#lab-experience",
-    "title": "Experience",
-    "section": "Lab Experience",
-    "text": "Lab Experience\n\nBeltran Lab | 2022 - Present\nBIOE 159 (Marine Ecology Field Quarter) | Fall 2022"
-  },
-  {
-    "objectID": "research.html#research-experience",
-    "href": "research.html#research-experience",
-    "title": "Experience",
-    "section": "Research Experience",
-    "text": "Research Experience\n\nPaid Researcher (Beltran Lab, UCSC) | Summer 2022 and Fall 2023 - Present"
-  },
-  {
-    "objectID": "research.html#programmingsoftware-experience",
-    "href": "research.html#programmingsoftware-experience",
-    "title": "Experience",
-    "section": "Programming/Software Experience",
-    "text": "Programming/Software Experience\n\nJMP | 2021 - Present\nR and RStudio | 2022 - Present"
-  },
-  {
-    "objectID": "research.html#volunteer-experience",
-    "href": "research.html#volunteer-experience",
-    "title": "Experience",
-    "section": "Volunteer Experience",
-    "text": "Volunteer Experience\n\nOdySea Aquarium | February 2017 - September 2018"
-  },
-  {
-    "objectID": "research.html#club-and-community-involvement-experiences",
-    "href": "research.html#club-and-community-involvement-experiences",
-    "title": "Experience",
-    "section": "Club And Community Involvement Experiences",
-    "text": "Club And Community Involvement Experiences\n\nRachel Carson College Council | 2018 - 2022\nWomen in Science Society | 2019 - 2021\nStudent Union Assembly\nMarine Science Club\nStudent Organization Funding Advisory Committee"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Conner Hale (she/her)",
@@ -54,6 +12,48 @@
     "title": "Conner Hale (she/her)",
     "section": "Education",
     "text": "Education\nB.S in Marine Biology with a Minor in Literature | 2022 University of California, Santa Cruz"
+  },
+  {
+    "objectID": "experience.html",
+    "href": "experience.html",
+    "title": "Experience",
+    "section": "",
+    "text": "Beltran Lab | 2021 - Present\nBIOE 159 (Marine Ecology Field Quarter) | Fall 2022\nBIOE 128L (Large Marine Field Vertebrates Field Class) | Spring 2022\nBIOE 161L (Kelp Forest Ecology Field Course) | Fall 2021"
+  },
+  {
+    "objectID": "experience.html#lab-experience",
+    "href": "experience.html#lab-experience",
+    "title": "Experience",
+    "section": "Lab Experience",
+    "text": "Lab Experience\n\nBeltran Lab | 2022 - Present\nBIOE 159 (Marine Ecology Field Quarter) | Fall 2022"
+  },
+  {
+    "objectID": "experience.html#research-experience",
+    "href": "experience.html#research-experience",
+    "title": "Experience",
+    "section": "Research Experience",
+    "text": "Research Experience\n\nPaid Researcher (Beltran Lab, UCSC) | Summer 2022 and Fall 2023 - Present\nBIOE 159 (Marine Ecology Field Quarter) | Fall 2022\nBIOE 128L (Large Marine Field Vertebrates Field Class) | Spring 2022\nBIOE 161L (Kelp Forest Ecology Field Course) | Fall 2021"
+  },
+  {
+    "objectID": "experience.html#programmingsoftware-experience",
+    "href": "experience.html#programmingsoftware-experience",
+    "title": "Experience",
+    "section": "Programming/Software Experience",
+    "text": "Programming/Software Experience\n\nJMP | 2021 - Present\nR and RStudio | 2022 - Present"
+  },
+  {
+    "objectID": "experience.html#volunteer-experience",
+    "href": "experience.html#volunteer-experience",
+    "title": "Experience",
+    "section": "Volunteer Experience",
+    "text": "Volunteer Experience\n\nOdySea Aquarium | February 2017 - September 2018"
+  },
+  {
+    "objectID": "experience.html#club-and-community-involvement-experiences",
+    "href": "experience.html#club-and-community-involvement-experiences",
+    "title": "Experience",
+    "section": "Club And Community Involvement Experiences",
+    "text": "Club And Community Involvement Experiences\n\nRachel Carson College Council | 2018 - 2022\nWomen in Science Society | 2019 - 2021\nStudent Union Assembly\nMarine Science Club\nStudent Organization Funding Advisory Committee"
   },
   {
     "objectID": "about.html",
@@ -81,7 +81,7 @@
     "href": "pubs.html",
     "title": "Publications",
     "section": "",
-    "text": "BIOE 128L\n\nCohort effects on northern elephant seals\n\nBeltran Lab\n\nEthics of bio-logging/tag attachment of fliers, swimmers, and walkers\n\nBIOE 159 (Corsica Field Quarter)\n\nInteractions between a native and invasive species of labridae and how each species is being affected by climate change \n\nBeltran Lab\n\nAdult female elephant seal dive behavior as a predator avoidance strategy"
+    "text": "BIOE 128L (Large Marine Field Vertebrates Field Class)\n\nCohort effects on northern elephant seals\n\nBeltran Lab\n\nEthics of bio-logging/tag attachment of fliers, swimmers, and walkers\n\nBIOE 159 (Corsica Field Quarter)\n\nInteractions between a native and invasive species of labridae and how each species is being affected by climate change \n\nBeltran Lab\n\nAdult female elephant seal dive behavior as a predator avoidance strategy"
   },
   {
     "objectID": "blogs.html",
@@ -89,6 +89,13 @@
     "title": "Blog Posts",
     "section": "",
     "text": "Right now its 6:21 pm and I have been working on this website for about an hour now [update as of 03/12/23: I ended up spending 3 hours working on it hehehe]. I am having so much fun :D This morning I had my Año shift and we (Patrick, Millie, Maddie, Mando, and I) weighed 9 weans (with 4 being known moms)!! Woohoo!"
+  },
+  {
+    "objectID": "blogs.html#post-2-3232023",
+    "href": "blogs.html#post-2-3232023",
+    "title": "Blog Posts",
+    "section": "Post #2 (3/23/2023)",
+    "text": "Post #2 (3/23/2023)\n\nThis morning Allison and I started writing our Ethics paper!!! Yay!! Since my last update I emailed the STARESO researchers and got permission from them to use their temperature data in our Corsica paper :) Submitting my PISCO application tomorrow (AHHHHH!) and then going to Año on Saturday and Monday!"
   },
   {
     "objectID": "mywebsite.html",

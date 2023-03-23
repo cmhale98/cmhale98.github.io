@@ -17,9 +17,9 @@ about:
 ## **Field Experience**
 
 - Beltran Lab | 2021 - Present
-- BIOE 161L (Kelp Forest Ecology Field Course) | Fall 2021
 - BIOE 159 (Marine Ecology Field Quarter) | Fall 2022
-- BIOE 128L (Large Marine Field Vertebrates Field Course) | Spring 2022
+- BIOE 128L (Large Marine Field Vertebrates Field Class) | Spring 2022
+- BIOE 161L (Kelp Forest Ecology Field Course) | Fall 2021
 
 ## **Lab Experience**
 
@@ -29,6 +29,9 @@ about:
 ## **Research Experience**
 
 - Paid Researcher (Beltran Lab, UCSC) | Summer 2022 and Fall 2023 - Present
+- BIOE 159 (Marine Ecology Field Quarter) | Fall 2022
+- BIOE 128L (Large Marine Field Vertebrates Field Class) | Spring 2022
+- BIOE 161L (Kelp Forest Ecology Field Course) | Fall 2021
     
 ## **Programming/Software Experience**
 

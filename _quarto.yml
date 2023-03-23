@@ -8,8 +8,8 @@
       left:
         - href: about.qmd
           text: About Me
-        - href: research.qmd
-          text: Research Experience
+        - href: experience.qmd
+          text: Experience
         - href: pubs.qmd
           text: Publications
         - href: blogs.qmd
