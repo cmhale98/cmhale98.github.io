@@ -13,11 +13,14 @@ about:
     - Cohort effects on northern elephant seals
     
 - Beltran Lab
-    - Ethics of bio-logging/tag attachment of fliers, swimmers, and walkers
+    - Ethics of bio-logging devices of fliers, swimmers, and walkers
     
 - BIOE 159 (Corsica Field Quarter)
     - Interactions between a native and invasive species of labridae and how each species is being affected by climate change
-![Fig 1: Corsica research](images/corsica.jpeg)
+
+![Our group heading out to collect data!](images/corsica.jpeg)
 
 - Beltran Lab
     - Adult female elephant seal dive behavior as a predator avoidance strategy
+
+![Progress meeting to talk about our figures :)](images/divepaper.png)
