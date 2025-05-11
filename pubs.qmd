@@ -1,26 +1,21 @@
 ---
-title: "Publications"
-image: images/ethicspaper.png
-about:
-  template: trestles
-  image-shape: rectangle
-  image-width: 16em
+#title: "Publications"
 ---
 
-## **Current Working Manuscripts**
+![My first citation!!](images/firstcitation.JPG)
 
-- BIOE 128L (Large Marine Field Vertebrates Field Class)
-    - Cohort effects on northern elephant seals
-    
-- Beltran Lab
-    - Ethics of bio-logging devices of fliers, swimmers, and walkers
-    
-- BIOE 159 (Corsica Field Quarter)
-    - Interactions between a native and invasive species of labridae and how each species is being affected by climate change
+## Publications ##
 
-![Our group heading out to collect data!](images/corsica.jpeg)
+1.	[2025] RS Beltran, AR Payne, AM Kilpatrick, **CM Hale**, M Reed, EL Hazen, SJ Bograd, J Jouma’a, PW Robinson, E Houle, W Matern, A Sabah, K Lewis, S Sebandal, A Coughlin, N Valdes Heredia, F Penny, SR Darymple, H Penny, M Sherrier, B Peterson, J Reiter, BJ Le Boeuf, DP Costa. Elephant seals as ecosystem sentinels for the northeast Pacific Ocean twilight zone. *Science*. DOI: 10.1126/science.adp2244
+2.	[2024] RS Beltran, AM Kilpatrick, S Picardi, B Abrahms, GM Barrile, WK Oestreich, JA Smith, MF Czapanskiy, AB Favilla, RR Reisinger, JM Kendall-Bar, AR Payne, MS Savoca, DG Palance, S Andrezjaczek, DM Shen, T Adachi, DP Costa, NA Storm, **CM Hale**, PW Robinson. Biologging for the future: how biologgers can help solve fundamental questions, from individuals to ecosystems. *Trends in Ecology and Evolution*. DOI: 10.1016/j.tree.2024.09.009
+3.	[2024] MF Czapanskiy^, LM Arcila Hernández^ (^contributed equally), C Munro, B Garfield, A Bastidas, AR Payne, K Ong, NA Storm, T Adachi, **CM Hale**, A Brown, PW Robinson, M Stewart, ST Abdel-Raheem, ES Zavaleta, RS Beltran. Long-term studies can and should provide structure for inclusive education and professional development. *Ecology Letters* (Special Issue on Very Long-Term Studies). DOI: 10.1111/ele.14482
 
-- Beltran Lab
-    - Adult female elephant seal dive behavior as a predator avoidance strategy
+## Media Features ##
 
-![Progress meeting to talk about our figures :)](images/divepaper.png)
+[UCSC Newsletter](https://news.ucsc.edu/2024/10/biologging-research-framework/)
+
+-   I got to talk about how working on [a highly collaborative research paper](10.1016/j.tree.2024.09.009) helped me develop critical research skills.
+
+[Mongabay](https://news.mongabay.com/2025/03/seal-oceanographers-reveal-fish-abundance-in-pacific-oceans-twilight-zone/)
+  
+-   I got to talk about the findings and impacts of [2025 *Science* paper](10.1126/science.adp2244)!

@@ -3,17 +3,13 @@
     output-dir: docs
 
   website:
-    title: "Conner Hale"
+    title: "Conner M. Hale"
     navbar:
       left:
-        - href: about.qmd
-          text: About Me
         - href: experience.qmd
           text: Experience
         - href: pubs.qmd
           text: Publications
-        - href: blogs.qmd
-          text: Blog Posts
     search: false
       
   format:

@@ -1,0 +1,34 @@
+---
+title: "Conner M. Hale (she/her)"
+format: html
+editor: visual
+image: images/website.jpg
+about:
+  template: trestles
+  image-shape: rectangle
+  image-width: 16em
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:cmhale@ucsc.edu
+    - icon: mortarboard
+      text: GoogleScholar
+      href: https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://scholar.google.com/citations%3Fuser%3DU1hXD3MAAAAJ%26hl%3Den&ved=2ahUKEwiDnIqVwpqNAxWDAjQIHSPBANUQFnoECBgQAQ&usg=AOvVaw00SaMEM7uQ1USkQYAlzCSE
+    - icon: github
+      text: GitHub
+      href: https://github.com/cmhale98
+---
+
+## **Welcome to my website! ☺**
+
+My name is Conner and I currently work as a Research Technician in the [Beltran Lab](https://roxannebeltran.sites.ucsc.edu) at UCSC!
+
+I'm interested in contributing to research programs that study animal movement, facilitate environmental stewardship through science communication, and follow the FAIR principles of open data.
+
+## **Education**
+
+I will soon be applying to PhD programs (please wish me luck!)
+
+*University of California, Santa Cruz*
+
+BS in Marine Biology with a Minor in Literature | 2022

@@ -14,32 +14,40 @@ about:
       href: https://docs.google.com/spreadsheets/d/1am2ZYdwuqbia1WSrNGTGrN0-Y7QvbnOxJkqGr6XmZmg/edit?usp=sharing
 ---
 
-## **Field Experience**
+## **Field Research Experience**
 
 - Beltran Lab | 2021 - Present
 
-![Recovered tags from our San Simeon trip ft. Roxanne, Allison, Salma, Cara, and folks from Piedras Blancas' Friends of the Elephant Seal organization :D](images/sansimeon.png)
+![Recovered tags from our Piedras Blancas seal! Each year the Beltran lab tracks seals on their post-breeding and post-molting migrations using biologgers.  ](images/sansimeon.png)
+
+- Raimondi-Carr Lab, [PISCO](https://piscoweb.org) | Summer 2023, 2024
+
+![Heading out for a long day of diving! As a PISCO technician I conducted over 50 dives within five months to contribute to a long-term study designed to understand the California Current's marine ecosystem and how it may be changing over time.](images/pisco.png)
+
+- [Kroeker](http://kristy-kroeker.squarespace.com/people) and [Kilpatrick](https://kilpatrick.eeb.ucsc.edu/sample-page/) Labs | Summer 2023
+
+![An urchin with black spot disease. I helped Nikka Malakooti, a PhD student in the Kroeker and Kilpatrick labs, conduct surveys to quantify the distribution and abundance of diseased urchins to understand disease spread within the reef.](images/sickurchin.jpeg)
 
 - BIOE 159 (Marine Ecology Field Quarter) | Fall 2023
 - BIOE 128L (Large Marine Field Vertebrates Field Class) | Spring 2022
 - BIOE 161L (Kelp Forest Ecology Field Course) | Fall 2021
 
-## **Lab Experience**
+## **Science Communication** ##
+
+To improve accessibility and engagment with the Beltran Lab's ongoing research I create plain language summaries of research articles for Año Nuevo Reserve docents. So far I have covered these papers:
+
+1. Beltran RS, Lozano RR, Morris PA, Robinson PW, Holser RR, Keates TR, Favilla AB, Kilpatrick AM, Costa DP. (2024). Individual variation in life-history timing: synchronous presence, asynchronous events and phenological compensation in a wild mammal. *Proceedings of the Royal Society B* [https://doi.org/10.1098/rspb.2023.2335](https://doi.org/10.1098/rspb.2023.2335)
+
+2. Payne AR, Czapanskiy MF, Kilpatrick AM, Robinson PW, Munro CM, Ong K, Bastidas A,  Negrete AO, Theders B, Stillwell B, Coffey D, Schweitzer E, Baugh E, Salazar J, Chau-Pech K,  Rodrigues M, Chavez M, Wright S, Rivas S, Reiter J, Costa DP, Beltran RS. (2024) Reproductive  success and offspring survival decline for female elephant seals past prime age. *The Journal of  Animal Ecology*. [https://doi.org/10.1111/1365-2656.14226](https://doi.org/10.1111/1365-2656.14226)
+
+3. Condit R, Reiter J, Morris PA, Oliver GW, Robinson PW, Costa DP, Beltran RS, Le Boeuf BJ. (2024) Inherent versus random variation in fitness of elephant seals: offspring quality and  quantity. *Canadian Journal of Zoology*.  [https://cdnsciencepub.com/doi/pdf/10.1139/cjz-2023-0166](https://cdnsciencepub.com/doi/pdf/10.1139/cjz-2023-0166)
+
+## **Wet Lab Experience**
 
 - Beltran Lab | 2022 - Present
 - BIOE 159 (Marine Ecology Field Quarter) | Fall 2023
 
 ![Tagging an Oscellated wrasse for the Alonzo Lab's research](images/fishtagging.png)
-
-## **Research Experience**
-
-- Paid Researcher (Beltran Lab, UCSC) | Summer 2022 and Fall 2023 - Present
-- BIOE 159 (Marine Ecology Field Quarter) | Fall 2023
-
-![Allie and I headed out to collect data for our group project](images/pavoproject.png)
-
-- BIOE 128L (Large Marine Field Vertebrates Field Class) | Spring 2022
-- BIOE 161L (Kelp Forest Ecology Field Course) | Fall 2021
     
 ## **Programming/Software Experience**
 
@@ -54,8 +62,8 @@ about:
 
 ## **Club And Community Involvement Experiences**
 
-- Rachel Carson College Council | 2018 - 2022
-- Women in Science Society | 2019 - 2021
-- Student Union Assembly
+- Rachel Carson College Council
+- Women in Science Society
 - Marine Science Club
+- Student Union Assembly
 - Student Organization Funding Advisory Committee
