@@ -1,21 +1,42 @@
 [
   {
-    "objectID": "mainpage.html",
-    "href": "mainpage.html",
+    "objectID": "pubs.html",
+    "href": "pubs.html",
+    "title": "Conner M. Hale",
+    "section": "",
+    "text": "My first citation!!"
+  },
+  {
+    "objectID": "pubs.html#publications",
+    "href": "pubs.html#publications",
+    "title": "Conner M. Hale",
+    "section": "Publications",
+    "text": "Publications\n\n[2025] RS Beltran, AR Payne, AM Kilpatrick, CM Hale, M Reed, EL Hazen, SJ Bograd, J Jouma’a, PW Robinson, E Houle, W Matern, A Sabah, K Lewis, S Sebandal, A Coughlin, N Valdes Heredia, F Penny, SR Darymple, H Penny, M Sherrier, B Peterson, J Reiter, BJ Le Boeuf, DP Costa. Elephant seals as ecosystem sentinels for the northeast Pacific Ocean twilight zone. Science. DOI: 10.1126/science.adp2244\n[2024] RS Beltran, AM Kilpatrick, S Picardi, B Abrahms, GM Barrile, WK Oestreich, JA Smith, MF Czapanskiy, AB Favilla, RR Reisinger, JM Kendall-Bar, AR Payne, MS Savoca, DG Palance, S Andrezjaczek, DM Shen, T Adachi, DP Costa, NA Storm, CM Hale, PW Robinson. Biologging for the future: how biologgers can help solve fundamental questions, from individuals to ecosystems. Trends in Ecology and Evolution. DOI: 10.1016/j.tree.2024.09.009\n[2024] MF Czapanskiy^, LM Arcila Hernández^ (^contributed equally), C Munro, B Garfield, A Bastidas, AR Payne, K Ong, NA Storm, T Adachi, CM Hale, A Brown, PW Robinson, M Stewart, ST Abdel-Raheem, ES Zavaleta, RS Beltran. Long-term studies can and should provide structure for inclusive education and professional development. Ecology Letters (Special Issue on Very Long-Term Studies). DOI: 10.1111/ele.14482"
+  },
+  {
+    "objectID": "pubs.html#media-features",
+    "href": "pubs.html#media-features",
+    "title": "Conner M. Hale",
+    "section": "Media Features",
+    "text": "Media Features\nUCSC Newsletter\n\nI got to talk about how working on a highly collaborative research paper helped me develop critical research skills.\n\nMongabay\n\nI got to talk about the findings and impacts of 2025 Science paper!"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
     "title": "Conner M. Hale (she/her)",
     "section": "",
     "text": "My name is Conner and I currently work as a Research Technician in the Beltran Lab at UCSC!\nI’m interested in contributing to research programs that study animal movement, facilitate environmental stewardship through science communication, and follow the FAIR principles of open data."
   },
   {
-    "objectID": "mainpage.html#welcome-to-my-website",
-    "href": "mainpage.html#welcome-to-my-website",
+    "objectID": "index.html#welcome-to-my-website",
+    "href": "index.html#welcome-to-my-website",
     "title": "Conner M. Hale (she/her)",
     "section": "",
     "text": "My name is Conner and I currently work as a Research Technician in the Beltran Lab at UCSC!\nI’m interested in contributing to research programs that study animal movement, facilitate environmental stewardship through science communication, and follow the FAIR principles of open data."
   },
   {
-    "objectID": "mainpage.html#education",
-    "href": "mainpage.html#education",
+    "objectID": "index.html#education",
+    "href": "index.html#education",
     "title": "Conner M. Hale (she/her)",
     "section": "Education",
     "text": "Education\nI will soon be applying to PhD programs (please wish me luck!)\nUniversity of California, Santa Cruz\nBS in Marine Biology with a Minor in Literature | 2022"
@@ -68,26 +89,5 @@
     "title": "Experience",
     "section": "Club And Community Involvement Experiences",
     "text": "Club And Community Involvement Experiences\n\nRachel Carson College Council\nWomen in Science Society\nMarine Science Club\nStudent Union Assembly\nStudent Organization Funding Advisory Committee"
-  },
-  {
-    "objectID": "pubs.html",
-    "href": "pubs.html",
-    "title": "Conner M. Hale",
-    "section": "",
-    "text": "My first citation!!"
-  },
-  {
-    "objectID": "pubs.html#publications",
-    "href": "pubs.html#publications",
-    "title": "Conner M. Hale",
-    "section": "Publications",
-    "text": "Publications\n\n[2025] RS Beltran, AR Payne, AM Kilpatrick, CM Hale, M Reed, EL Hazen, SJ Bograd, J Jouma’a, PW Robinson, E Houle, W Matern, A Sabah, K Lewis, S Sebandal, A Coughlin, N Valdes Heredia, F Penny, SR Darymple, H Penny, M Sherrier, B Peterson, J Reiter, BJ Le Boeuf, DP Costa. Elephant seals as ecosystem sentinels for the northeast Pacific Ocean twilight zone. Science. DOI: 10.1126/science.adp2244\n[2024] RS Beltran, AM Kilpatrick, S Picardi, B Abrahms, GM Barrile, WK Oestreich, JA Smith, MF Czapanskiy, AB Favilla, RR Reisinger, JM Kendall-Bar, AR Payne, MS Savoca, DG Palance, S Andrezjaczek, DM Shen, T Adachi, DP Costa, NA Storm, CM Hale, PW Robinson. Biologging for the future: how biologgers can help solve fundamental questions, from individuals to ecosystems. Trends in Ecology and Evolution. DOI: 10.1016/j.tree.2024.09.009\n[2024] MF Czapanskiy^, LM Arcila Hernández^ (^contributed equally), C Munro, B Garfield, A Bastidas, AR Payne, K Ong, NA Storm, T Adachi, CM Hale, A Brown, PW Robinson, M Stewart, ST Abdel-Raheem, ES Zavaleta, RS Beltran. Long-term studies can and should provide structure for inclusive education and professional development. Ecology Letters (Special Issue on Very Long-Term Studies). DOI: 10.1111/ele.14482"
-  },
-  {
-    "objectID": "pubs.html#media-features",
-    "href": "pubs.html#media-features",
-    "title": "Conner M. Hale",
-    "section": "Media Features",
-    "text": "Media Features\nUCSC Newsletter\n\nI got to talk about how working on a highly collaborative research paper helped me develop critical research skills.\n\nMongabay\n\nI got to talk about the findings and impacts of 2025 Science paper!"
   }
 ]

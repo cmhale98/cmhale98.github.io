@@ -1,24 +1,24 @@
-  project:
-    type: website
-    output-dir: docs
+project:
+  type: website
+  output-dir: docs
 
-  website:
-    title: "Conner M. Hale"
-    navbar:
-      left:
-	- href: mainpage.qmd
-          text: Conner M. Hale
-        - href: experience.qmd
-          text: Experience
-        - href: pubs.qmd
-          text: Publications
+website:
+  title: "Conner M. Hale"
+  navbar:
+    left:
+      - href: index.qmd
+        text: About Me
+      - href: experience.qmd
+        text: Experience
+      - href: pubs.qmd
+        text: Publications
     search: false
-      
-  format:
-    html:
-      mainfont: Gill Sans
-      theme: pulse
-      css: styles.css
-      toc: true
-      
-  editor: visual
+
+format:
+  html:
+    mainfont: Gill Sans
+    theme: pulse
+    css: styles.css
+    toc: true
+
+editor: visual
