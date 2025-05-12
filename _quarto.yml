@@ -6,6 +6,8 @@
     title: "Conner M. Hale"
     navbar:
       left:
+	- href: mainpage.qmd
+          text: Conner M. Hale
         - href: experience.qmd
           text: Experience
         - href: pubs.qmd
