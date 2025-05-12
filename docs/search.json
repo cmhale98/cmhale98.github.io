@@ -1,17 +1,24 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
+    "objectID": "mainpage.html",
+    "href": "mainpage.html",
     "title": "Conner M. Hale (she/her)",
     "section": "",
-    "text": "My name is Conner and I currently work as a Program Assistant in the Beltran Lab at UCSC!"
+    "text": "My name is Conner and I currently work as a Research Technician in the Beltran Lab at UCSC!\nI’m interested in contributing to research programs that study animal movement, facilitate environmental stewardship through science communication, and follow the FAIR principles of open data."
   },
   {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
+    "objectID": "mainpage.html#welcome-to-my-website",
+    "href": "mainpage.html#welcome-to-my-website",
+    "title": "Conner M. Hale (she/her)",
+    "section": "",
+    "text": "My name is Conner and I currently work as a Research Technician in the Beltran Lab at UCSC!\nI’m interested in contributing to research programs that study animal movement, facilitate environmental stewardship through science communication, and follow the FAIR principles of open data."
+  },
+  {
+    "objectID": "mainpage.html#education",
+    "href": "mainpage.html#education",
     "title": "Conner M. Hale (she/her)",
     "section": "Education",
-    "text": "Education\nB.S in Marine Biology with a Minor in Literature | 2022 University of California, Santa Cruz"
+    "text": "Education\nI will soon be applying to PhD programs (please wish me luck!)\nUniversity of California, Santa Cruz\nBS in Marine Biology with a Minor in Literature | 2022"
   },
   {
     "objectID": "experience.html",
@@ -21,18 +28,25 @@
     "text": "Beltran Lab | 2021 - Present\n\n\n\n\nRecovered tags from our Piedras Blancas seal! Each year the Beltran lab tracks seals on their post-breeding and post-molting migrations using biologgers.\n\n\n\nRaimondi-Carr Lab, PISCO | Summer 2023, 2024\n\n\n\n\nHeading out for a long day of diving! As a PISCO technician I conducted over 50 dives within five months to contribute to a long-term study designed to understand the California Current’s marine ecosystem and how it may be changing over time.\n\n\n\nKroeker and Kilpatrick Labs | Summer 2023\n\n\n\n\nAn urchin with black spot disease. I helped Nikka Malakooti, a PhD student in the Kroeker and Kilpatrick labs, conduct surveys to quantify the distribution and abundance of diseased urchins to understand disease spread within the reef.\n\n\n\nBIOE 159 (Marine Ecology Field Quarter) | Fall 2023\nBIOE 128L (Large Marine Field Vertebrates Field Class) | Spring 2022\nBIOE 161L (Kelp Forest Ecology Field Course) | Fall 2021"
   },
   {
-    "objectID": "experience.html#lab-experience",
-    "href": "experience.html#lab-experience",
+    "objectID": "experience.html#field-research-experience",
+    "href": "experience.html#field-research-experience",
     "title": "Experience",
-    "section": "Lab Experience",
-    "text": "Lab Experience\n\nBeltran Lab | 2022 - Present\nBIOE 159 (Marine Ecology Field Quarter) | Fall 2023\n\n\n\n\nTagging an Oscellated wrasse for the Alonzo Lab’s research"
+    "section": "",
+    "text": "Beltran Lab | 2021 - Present\n\n\n\n\nRecovered tags from our Piedras Blancas seal! Each year the Beltran lab tracks seals on their post-breeding and post-molting migrations using biologgers.\n\n\n\nRaimondi-Carr Lab, PISCO | Summer 2023, 2024\n\n\n\n\nHeading out for a long day of diving! As a PISCO technician I conducted over 50 dives within five months to contribute to a long-term study designed to understand the California Current’s marine ecosystem and how it may be changing over time.\n\n\n\nKroeker and Kilpatrick Labs | Summer 2023\n\n\n\n\nAn urchin with black spot disease. I helped Nikka Malakooti, a PhD student in the Kroeker and Kilpatrick labs, conduct surveys to quantify the distribution and abundance of diseased urchins to understand disease spread within the reef.\n\n\n\nBIOE 159 (Marine Ecology Field Quarter) | Fall 2023\nBIOE 128L (Large Marine Field Vertebrates Field Class) | Spring 2022\nBIOE 161L (Kelp Forest Ecology Field Course) | Fall 2021"
   },
   {
-    "objectID": "experience.html#research-experience",
-    "href": "experience.html#research-experience",
+    "objectID": "experience.html#science-communication",
+    "href": "experience.html#science-communication",
     "title": "Experience",
-    "section": "Research Experience",
-    "text": "Research Experience\n\nResearcher (Beltran Lab, UCSC) | Summer 2022\nBIOE 159 (Marine Ecology Field Quarter) | Fall 2023\n\n\n\n\nAllie and I headed out to collect data for our group project\n\n\n\nBIOE 128L (Large Marine Field Vertebrates Field Class) | Spring 2022\nBIOE 161L (Kelp Forest Ecology Field Course) | Fall 2021"
+    "section": "Science Communication",
+    "text": "Science Communication\nTo improve accessibility and engagment with the Beltran Lab’s ongoing research I create plain language summaries of research articles for Año Nuevo Reserve docents. So far I have covered these papers:\n\nBeltran RS, Lozano RR, Morris PA, Robinson PW, Holser RR, Keates TR, Favilla AB, Kilpatrick AM, Costa DP. (2024). Individual variation in life-history timing: synchronous presence, asynchronous events and phenological compensation in a wild mammal. Proceedings of the Royal Society B https://doi.org/10.1098/rspb.2023.2335\nPayne AR, Czapanskiy MF, Kilpatrick AM, Robinson PW, Munro CM, Ong K, Bastidas A, Negrete AO, Theders B, Stillwell B, Coffey D, Schweitzer E, Baugh E, Salazar J, Chau-Pech K, Rodrigues M, Chavez M, Wright S, Rivas S, Reiter J, Costa DP, Beltran RS. (2024) Reproductive success and offspring survival decline for female elephant seals past prime age. The Journal of Animal Ecology. https://doi.org/10.1111/1365-2656.14226\nCondit R, Reiter J, Morris PA, Oliver GW, Robinson PW, Costa DP, Beltran RS, Le Boeuf BJ. (2024) Inherent versus random variation in fitness of elephant seals: offspring quality and quantity. Canadian Journal of Zoology. https://cdnsciencepub.com/doi/pdf/10.1139/cjz-2023-0166"
+  },
+  {
+    "objectID": "experience.html#wet-lab-experience",
+    "href": "experience.html#wet-lab-experience",
+    "title": "Experience",
+    "section": "Wet Lab Experience",
+    "text": "Wet Lab Experience\n\nBeltran Lab | 2022 - Present\nBIOE 159 (Marine Ecology Field Quarter) | Fall 2023\n\n\n\n\nTagging an Oscellated wrasse for the Alonzo Lab’s research"
   },
   {
     "objectID": "experience.html#programmingsoftware-experience",
@@ -56,130 +70,11 @@
     "text": "Club And Community Involvement Experiences\n\nRachel Carson College Council\nWomen in Science Society\nMarine Science Club\nStudent Union Assembly\nStudent Organization Funding Advisory Committee"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "Certifications and Awards",
-    "section": "",
-    "text": "I am a recent graduate of UCSC where I studied Marine Biology and Literature\nIn the coming years I hope to become a PhD student\nCurrently I am working on enriching my existing skill set and devlope new skills"
-  },
-  {
-    "objectID": "about.html#research-interests",
-    "href": "about.html#research-interests",
-    "title": "Certifications and Awards",
-    "section": "Research Interests ⍤",
-    "text": "Research Interests ⍤\n\nField research\nPopulation demographics\nHow animals use their environment (at spatial and temporal scales)\nBio-logging and the ethics of tag use\nF.A.I.R/open data practices\nScience communication"
-  },
-  {
-    "objectID": "about.html#general-interests",
-    "href": "about.html#general-interests",
-    "title": "Certifications and Awards",
-    "section": "General Interests ☺",
-    "text": "General Interests ☺\n\nFilm photography \nReading\nBiking\nLearning new languages"
-  },
-  {
     "objectID": "pubs.html",
     "href": "pubs.html",
     "title": "Conner M. Hale",
     "section": "",
     "text": "My first citation!!"
-  },
-  {
-    "objectID": "blogs.html",
-    "href": "blogs.html",
-    "title": "Blog Posts",
-    "section": "",
-    "text": "Right now its 6:21 pm and I have been working on this website for about an hour now [update as of 03/12/23: I ended up spending 3 hours working on it hehehe]. I am having so much fun :D This morning I had my Año shift and we (Patrick, Millie, Maddie, Mando, and I) weighed 9 weans (with 4 being known moms)!! Woohoo!"
-  },
-  {
-    "objectID": "blogs.html#post-2-3232023",
-    "href": "blogs.html#post-2-3232023",
-    "title": "Blog Posts",
-    "section": "Post #2 (3/23/2023)",
-    "text": "Post #2 (3/23/2023)\n\nThis morning Allison and I started writing our Ethics paper!!! Yay!! Since my last update I emailed the STARESO researchers and got permission from them to use their temperature data in our Corsica paper :) Submitting my PISCO application tomorrow (AHHHHH!) and then going to Año on Saturday and Monday!"
-  },
-  {
-    "objectID": "mywebsite.html",
-    "href": "mywebsite.html",
-    "title": "Conner Hale (she/her)",
-    "section": "",
-    "text": "#SEEMS TO BE REDUNDANT"
-  },
-  {
-    "objectID": "mywebsite.html#hi-welcome-to-my-website",
-    "href": "mywebsite.html#hi-welcome-to-my-website",
-    "title": "Conner Hale (she/her)",
-    "section": "Hi, welcome to my website :)",
-    "text": "Hi, welcome to my website :)\nMy name is Conner and I currently work as a Program Assistant in the Beltran Lab at UCSC!"
-  },
-  {
-    "objectID": "mywebsite.html#education",
-    "href": "mywebsite.html#education",
-    "title": "Conner Hale (she/her)",
-    "section": "Education",
-    "text": "Education\nB.S in Marine Biology with a Minor in Literature | 2022 University of California, Santa Cruz\n\n#r markdown slay"
-  },
-  {
-    "objectID": "blogs.html#post-3-04292023",
-    "href": "blogs.html#post-3-04292023",
-    "title": "Blog Posts",
-    "section": "Post #3 (04/29/2023)",
-    "text": "Post #3 (04/29/2023)\n\nI got the PISCO field tech position!!!!! WOOHOO!!!!! I am really excited to begin that :) Allison and I have a great draft of our paper and the E-seal dive paper is coming together nicely! I’ve been cleaning the dolphin pool more often and have gotten to do enrichment with Donley and Rain twice now….they are so cute >_<"
-  },
-  {
-    "objectID": "mainpage.html",
-    "href": "mainpage.html",
-    "title": "Conner M. Hale (she/her)",
-    "section": "",
-    "text": "My name is Conner and I currently work as a Research Technician in the Beltran Lab at UCSC!\nI’m interested in contributing to research programs that study animal movement, facilitate environmental stewardship through science communication, and follow the FAIR principles of open data."
-  },
-  {
-    "objectID": "mainpage.html#welcome-to-my-website",
-    "href": "mainpage.html#welcome-to-my-website",
-    "title": "Conner M. Hale (she/her)",
-    "section": "",
-    "text": "My name is Conner and I currently work as a Research Technician in the Beltran Lab at UCSC!\nI’m interested in contributing to research programs that study animal movement, facilitate environmental stewardship through science communication, and follow the FAIR principles of open data."
-  },
-  {
-    "objectID": "mainpage.html#education",
-    "href": "mainpage.html#education",
-    "title": "Conner M. Hale (she/her)",
-    "section": "Education",
-    "text": "Education\nI will soon be applying to PhD programs (please wish me luck!)\nUniversity of California, Santa Cruz\nBS in Marine Biology with a Minor in Literature | 2022"
-  },
-  {
-    "objectID": "aboutme.html",
-    "href": "aboutme.html",
-    "title": "Certifications and Awards",
-    "section": "",
-    "text": "I am a recent graduate of UCSC where I studied Marine Biology and Literature\nIn the coming years I hope to become a PhD student\nCurrently I am working on enriching my existing skills while simultaneously developing new ones"
-  },
-  {
-    "objectID": "aboutme.html#about-me",
-    "href": "aboutme.html#about-me",
-    "title": "Certifications and Awards",
-    "section": "",
-    "text": "I am a recent graduate of UCSC where I studied Marine Biology and Literature\nIn the coming years I hope to become a PhD student\nCurrently I am working on enriching my existing skills while simultaneously developing new ones"
-  },
-  {
-    "objectID": "aboutme.html#research-interests",
-    "href": "aboutme.html#research-interests",
-    "title": "Certifications and Awards",
-    "section": "Research Interests ⍤",
-    "text": "Research Interests ⍤\n\nField research\nPopulation demographics\nHow animals use their environment (at spatial and temporal scales)\nBio-logging and the ethics of tag use\nF.A.I.R/open data practices\nScience communication"
-  },
-  {
-    "objectID": "aboutme.html#general-interests",
-    "href": "aboutme.html#general-interests",
-    "title": "Certifications and Awards",
-    "section": "General Interests ☺",
-    "text": "General Interests ☺\n\nFilm photography \nReading\nBiking\nLearning new languages"
-  },
-  {
-    "objectID": "pubs.html#current-working-manuscripts",
-    "href": "pubs.html#current-working-manuscripts",
-    "title": "Publications",
-    "section": "",
-    "text": "BIOE 128L (Large Marine Field Vertebrates Field Class)\n\nCohort effects on northern elephant seals\n\nBeltran Lab\n\nMinimum reporting standards can promote animal welfare and data quality in biologging research\nPreprint avaliable now!\n\nBIOE 159 (Corsica Field Quarter)\n\nInteractions between a native and invasive species of labridae and how each species is being affected by climate change\n\n\n\n\n\nOur group heading out to collect data!\n\n\n\nBeltran Lab\n\nAdult female elephant seal dive behavior as a predator avoidance strategy\n\n\n\n\n\nProgress meeting to talk about our figures :)"
   },
   {
     "objectID": "pubs.html#publications",
@@ -189,38 +84,10 @@
     "text": "Publications\n\n[2025] RS Beltran, AR Payne, AM Kilpatrick, CM Hale, M Reed, EL Hazen, SJ Bograd, J Jouma’a, PW Robinson, E Houle, W Matern, A Sabah, K Lewis, S Sebandal, A Coughlin, N Valdes Heredia, F Penny, SR Darymple, H Penny, M Sherrier, B Peterson, J Reiter, BJ Le Boeuf, DP Costa. Elephant seals as ecosystem sentinels for the northeast Pacific Ocean twilight zone. Science. DOI: 10.1126/science.adp2244\n[2024] RS Beltran, AM Kilpatrick, S Picardi, B Abrahms, GM Barrile, WK Oestreich, JA Smith, MF Czapanskiy, AB Favilla, RR Reisinger, JM Kendall-Bar, AR Payne, MS Savoca, DG Palance, S Andrezjaczek, DM Shen, T Adachi, DP Costa, NA Storm, CM Hale, PW Robinson. Biologging for the future: how biologgers can help solve fundamental questions, from individuals to ecosystems. Trends in Ecology and Evolution. DOI: 10.1016/j.tree.2024.09.009\n[2024] MF Czapanskiy^, LM Arcila Hernández^ (^contributed equally), C Munro, B Garfield, A Bastidas, AR Payne, K Ong, NA Storm, T Adachi, CM Hale, A Brown, PW Robinson, M Stewart, ST Abdel-Raheem, ES Zavaleta, RS Beltran. Long-term studies can and should provide structure for inclusive education and professional development. Ecology Letters (Special Issue on Very Long-Term Studies). DOI: 10.1111/ele.14482"
   },
   {
-    "objectID": "experience.html#field-experience",
-    "href": "experience.html#field-experience",
-    "title": "Experience",
-    "section": "",
-    "text": "Beltran Lab | 2021 - Present\n\n\n\n\nRecovered tags from our San Simeon trip ft. Roxanne, Allison, Salma, Cara, and folks from Piedras Blancas’ Friends of the Elephant Seal organization :D\n\n\n\nRaimondi-Carr Lab, PISCO | Summer 2023\n\n\n\n\nHeading out for a long day of diving! As a PISCO technician I conducted over 50 dives within five months to contribute to a long-term study designed to understand the California Current’s marine ecosystem and how it may be changing over time.\n\n\n\n\n\nEnjoying some dinner on the Sebastes with a beautiful view after a long day of diving in Cambria, CA.\n\n\n\nKroeker and Kilpatrick Labs | Summer 2023\n\n\n\n\nAn urchin with black spot disease. I helped Nikka Malakooti, a PhD student in the Kroeker and Kilpatrick labs, conduct surveys to quantify the distribution and abundance of diseased urchins to understand disease spread within the reef.\n\n\n\nBIOE 159 (Marine Ecology Field Quarter) | Fall 2023\nBIOE 128L (Large Marine Field Vertebrates Field Class) | Spring 2022\nBIOE 161L (Kelp Forest Ecology Field Course) | Fall 2021"
-  },
-  {
-    "objectID": "experience.html#field-research-experience",
-    "href": "experience.html#field-research-experience",
-    "title": "Experience",
-    "section": "",
-    "text": "Beltran Lab | 2021 - Present\n\n\n\n\nRecovered tags from our Piedras Blancas seal! Each year the Beltran lab tracks seals on their post-breeding and post-molting migrations using biologgers.\n\n\n\nRaimondi-Carr Lab, PISCO | Summer 2023, 2024\n\n\n\n\nHeading out for a long day of diving! As a PISCO technician I conducted over 50 dives within five months to contribute to a long-term study designed to understand the California Current’s marine ecosystem and how it may be changing over time.\n\n\n\nKroeker and Kilpatrick Labs | Summer 2023\n\n\n\n\nAn urchin with black spot disease. I helped Nikka Malakooti, a PhD student in the Kroeker and Kilpatrick labs, conduct surveys to quantify the distribution and abundance of diseased urchins to understand disease spread within the reef.\n\n\n\nBIOE 159 (Marine Ecology Field Quarter) | Fall 2023\nBIOE 128L (Large Marine Field Vertebrates Field Class) | Spring 2022\nBIOE 161L (Kelp Forest Ecology Field Course) | Fall 2021"
-  },
-  {
-    "objectID": "experience.html#science-communication",
-    "href": "experience.html#science-communication",
-    "title": "Experience",
-    "section": "Science Communication",
-    "text": "Science Communication\nTo improve accessibility and engagment with the Beltran Lab’s ongoing research I create plain language summaries of research articles for Año Nuevo Reserve docents. So far I have covered these papers:\n\nBeltran RS, Lozano RR, Morris PA, Robinson PW, Holser RR, Keates TR, Favilla AB, Kilpatrick AM, Costa DP. (2024). Individual variation in life-history timing: synchronous presence, asynchronous events and phenological compensation in a wild mammal. Proceedings of the Royal Society B https://doi.org/10.1098/rspb.2023.2335\nPayne AR, Czapanskiy MF, Kilpatrick AM, Robinson PW, Munro CM, Ong K, Bastidas A, Negrete AO, Theders B, Stillwell B, Coffey D, Schweitzer E, Baugh E, Salazar J, Chau-Pech K, Rodrigues M, Chavez M, Wright S, Rivas S, Reiter J, Costa DP, Beltran RS. (2024) Reproductive success and offspring survival decline for female elephant seals past prime age. The Journal of Animal Ecology. https://doi.org/10.1111/1365-2656.14226\nCondit R, Reiter J, Morris PA, Oliver GW, Robinson PW, Costa DP, Beltran RS, Le Boeuf BJ. (2024) Inherent versus random variation in fitness of elephant seals: offspring quality and quantity. Canadian Journal of Zoology. https://cdnsciencepub.com/doi/pdf/10.1139/cjz-2023-0166"
-  },
-  {
     "objectID": "pubs.html#media-features",
     "href": "pubs.html#media-features",
     "title": "Conner M. Hale",
     "section": "Media Features",
     "text": "Media Features\nUCSC Newsletter\n\nI got to talk about how working on a highly collaborative research paper helped me develop critical research skills.\n\nMongabay\n\nI got to talk about the findings and impacts of 2025 Science paper!"
-  },
-  {
-    "objectID": "experience.html#wet-lab-experience",
-    "href": "experience.html#wet-lab-experience",
-    "title": "Experience",
-    "section": "Wet Lab Experience",
-    "text": "Wet Lab Experience\n\nBeltran Lab | 2022 - Present\nBIOE 159 (Marine Ecology Field Quarter) | Fall 2023\n\n\n\n\nTagging an Oscellated wrasse for the Alonzo Lab’s research"
   }
 ]
