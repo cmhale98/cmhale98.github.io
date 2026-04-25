@@ -21,7 +21,7 @@ about:
 
 ## **Welcome to my website! ☺**
 
-My name is Conner and I currently work as a Research Technician in the [Beltran Lab](https://roxannebeltran.sites.ucsc.edu) at UCSC!
+My name is Conner and I currently work as a Research Technician in the [Beltran Lab](https://beltranlab.ucsc.edu) at UCSC!
 
 I'm interested in contributing to research programs that study animal movement, facilitate environmental stewardship through science communication, and follow the FAIR principles of open data.
 

@@ -6,9 +6,11 @@
 
 ## Publications
 
-1.  \[2025\] RS Beltran, AR Payne, AM Kilpatrick, **CM Hale**, M Reed, EL Hazen, SJ Bograd, J Jouma’a, PW Robinson, E Houle, W Matern, A Sabah, K Lewis, S Sebandal, A Coughlin, N Valdes Heredia, F Penny, SR Darymple, H Penny, M Sherrier, B Peterson, J Reiter, BJ Le Boeuf, DP Costa. Elephant seals as ecosystem sentinels for the northeast Pacific Ocean twilight zone. *Science*. DOI: 10.1126/science.adp2244
-2.  \[2024\] RS Beltran, AM Kilpatrick, S Picardi, B Abrahms, GM Barrile, WK Oestreich, JA Smith, MF Czapanskiy, AB Favilla, RR Reisinger, JM Kendall-Bar, AR Payne, MS Savoca, DG Palance, S Andrezjaczek, DM Shen, T Adachi, DP Costa, NA Storm, **CM Hale**, PW Robinson. Biologging for the future: how biologgers can help solve fundamental questions, from individuals to ecosystems. *Trends in Ecology and Evolution*. DOI: 10.1016/j.tree.2024.09.009
-3.  \[2024\] MF Czapanskiy\^, LM Arcila Hernández\^ (\^contributed equally), C Munro, B Garfield, A Bastidas, AR Payne, K Ong, NA Storm, T Adachi, **CM Hale**, A Brown, PW Robinson, M Stewart, ST Abdel-Raheem, ES Zavaleta, RS Beltran. Long-term studies can and should provide structure for inclusive education and professional development. *Ecology Letters* (Special Issue on Very Long-Term Studies). DOI: 10.1111/ele.14482
+1.  **Hale**, Jouma’a, Brown, Robinson, Holser, Costa, Beltran. Spatiotemporal variation in marine mammal anti-predator behaviors resulting from a predation pinch point. (2026). *Ecology and Evolution*. DOI: [10.1002/ece.372841](10.1002/ece.372841)
+2.  Payne, **Hale**, Davidson, Kendall-Bar, Beltran. Towards a minimum reporting standard to promote animal welfare and data quality in biologging research. (2026). *Animal Biotelemetry*. DOI: [10.1186/s40317-025-00438-w](10.1186/s40317-025-00438-w)
+3.  Beltran, Payne, Kilpatrick, Hale, Reed, Hazen, Bograd, Jouma’a, Robinson, Houle, Matern, Sabah, Lewis, Sebandal, Coughlin, Valdes Heredia, Penny, Dalrymple, Penny, Sherrier, Peterson, Reiter, Le Boeuf, Costa. Elephant seals as ecosystem sentinels for the northeast Pacific Ocean twilight zone. (2025). *Science*. DOI: [10.1126/science.adp2244](10.1126/science.adp2244)
+4.  Beltran, Kilpatrick, Picardi, Abrahms, Barrile, Oestreich, Smith, Czapanskiy, Favilla, Reisinger, Kendall-Bar, Payne, Savoca, Palance, Andrezjaczek, Shen, Adachi, Costa, Storm, **Hale**, Robinson. (2024). Biologging for the future: how biologgers can help solve fundamental questions, from individuals to ecosystems. *Trends in Ecology and Evolution*. DOI: [10.1016/j.tree.2024.09.009](10.1016/j.tree.2024.09.009)
+5.  Czapanskiy\^, Arcila-Hernández\^ (\^contributed equally), Munro, Garfield, Bastidas, Payne, Ong, Storm, Adachi, **Hale**, Brown, Robinson, Stewart, Abdel-Raheem, Zavaleta, Beltran. Long-term studies can and should provide structure for inclusive education and professional development. (2024). *Ecology Letters* (Special Issue on Very Long-Term Studies). DOI: [10.1111/ele.14482](10.1111/ele.14482)
 
 ## Media Features
 
@@ -18,4 +20,4 @@
 
 [Mongabay](https://news.mongabay.com/2025/03/seal-oceanographers-reveal-fish-abundance-in-pacific-oceans-twilight-zone/)
 
--   I got to talk about the findings and impacts of [2025 *Science* paper](10.1126/science.adp2244)!
+-   I got to talk about the findings and impacts of our [2025 *Science* paper](10.1126/science.adp2244)!
